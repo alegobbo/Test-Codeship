@@ -1,0 +1,10 @@
+{
+    "name": "alessandro/test-codeship",
+    "authors": [
+        {
+            "name": "alegobbo",
+            "email": "info@alessandrogobbo.com"
+        }
+    ],
+    "require": {}
+}
