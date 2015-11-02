@@ -1,1 +1,5 @@
+/config/
+/lib/
 /vendor/
+Capfile
+composer.json
